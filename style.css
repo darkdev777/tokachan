@@ -204,3 +204,7 @@ nav a:hover{
   -moz-box-shadow: 0px 0px 40px #FFD10B;
   box-shadow: 0px 0px 40px #FFD10B;
 }
+li{
+  margin-bottom: 10px;
+  justify-content: center;
+}
