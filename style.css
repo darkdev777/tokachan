@@ -1,7 +1,7 @@
 body {
   min-height: 100%;
   height: 100%;
-  background-image: url(Animebg.jpg);
+  background-image: url(bg.jpg);
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -12,26 +12,27 @@ body {
   font-family: 'IBM Plex Mono', monospace;
 }
 .projectb{
-  -webkit-box-shadow: 0px 0px 40px #4195fc;
+/**  -webkit-box-shadow: 0px 0px 40px #4195fc;
   -moz-box-shadow: 0px 0px 40px #4195fc;
-  box-shadow: 0px 0px 40px #4195fc; 
+  box-shadow: 0px 0px 40px #4195fc; **/
   margin-top:50px;
   padding: 10px;
   border-radius:10px;
   background-color: transparent;
   margin-bottom: 10px;
   text-justify: center;
+  backdrop-filter: blur(50px)
 }
 .projectr{
-  -webkit-box-shadow: 0px 0px 40px #FF2A2A;
+ /** -webkit-box-shadow: 0px 0px 40px #FF2A2A;
   -moz-box-shadow: 0px 0px 40px #FF2A2A;
-  box-shadow: 0px 0px 40px  #FF2A2A; 
+  box-shadow: 0px 0px 40px  #FF2A2A; **/
   margin-top:50px;
   padding: 10px;
   border-radius:10px;
   background-color: transparent;
   margin-bottom: 10px;
-  backdrop-filter: blur(10px)
+  backdrop-filter: blur(50px)
 }
 .content{
   color: #FFFFFF;
@@ -64,10 +65,10 @@ nav{
   border-radius: 10px;
   background: transparent;
   overflow: hidden;
-  backdrop-filter: blur(10px);
-  -webkit-box-shadow: 0px 0px 20px #03DEFF;
+  backdrop-filter: blur(100px);
+  /**-webkit-box-shadow: 0px 0px 20px #03DEFF;
   -moz-box-shadow: 0px 0px 20px #03DEFF;
-  box-shadow: 0px 0px 20px  #03DEFF; 
+  box-shadow: 0px 0px 20px  #03DEFF; **/
 }
 nav a{
   border-radius: 10px;
