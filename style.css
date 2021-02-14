@@ -184,8 +184,8 @@ nav a:hover{
 }
 .error h1{
   color: #FFFFFF;
-  font-weight: 700px;
-  font-size: 100px;
+  font-weight: 700;
+  font-size: 70px;
 }
 .error p{
   margin-bottom: 50px;
@@ -194,6 +194,7 @@ nav a:hover{
   font-size: 20px;
 }
 .error a{
+  backdrop-filter: blur(100px);
   margin-top: 50px;
   color: #FF050D7A;
   padding: 5px;
@@ -208,6 +209,7 @@ nav a:hover{
   -webkit-box-shadow: 0px 0px 40px #FF2A2A;
   -moz-box-shadow: 0px 0px 40px #FF2A2A;
    box-shadow: 0px 0px 40px  #FF2A2A;
+   margin-bottom: 50px;
 }
 .error a:hover{
   color:#160A66;
