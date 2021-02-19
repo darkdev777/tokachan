@@ -145,30 +145,32 @@ nav a:hover{
 .foot{
   margin-top: 50px;
   opacity: 0.4;
+  text-align: center;
   font-size: 10px;
+  background: black;
+  padding-top: 10px;
+  margin-top: 10px;
+  width: 100%;
+  color: #FFFFFF;
+  bottom: 0;
+  height: 1.5em;
   position: fixed;
   left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: transparent;
-  color: white;
-  text-align: center;
-  height: 2.5em;
 }
-.foota{
+.footera{
   margin-top: 50px;
   opacity: 0.4;
   text-align: center;
   font-size: 10px;
-}
-.footera{
+  background: black;
   padding-top: 10px;
   margin-top: 10px;
-  width: 95%;
+  width: 100%;
   color: #FFFFFF;
   bottom: 0;
   height: 1.5em;
   position: relative;
+  left: 0;
 }
 .nothing{
   -webkit-text-shadow: 0px 0px 40px #03DEFF;
