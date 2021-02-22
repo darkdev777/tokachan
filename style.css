@@ -187,6 +187,9 @@ nav a:hover{
 .error{
   text-align: center;
   display: list-item;
+  border-radius:10px;
+  background-color: transparent;
+  backdrop-filter: blur(50px)
 }
 .error h1{
   color: #FFFFFF;
@@ -201,7 +204,6 @@ nav a:hover{
 }
 .error a{
   backdrop-filter: blur(100px);
-  margin-top: 50px;
   color: #FF050D7A;
   padding: 5px;
   border-radius:10px;
