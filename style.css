@@ -189,7 +189,6 @@ nav a:hover{
   display: list-item;
   border-radius:10px;
   background-color: transparent;
-  backdrop-filter: blur(50px)
 }
 .error h1{
   color: #FFFFFF;
