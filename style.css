@@ -225,3 +225,33 @@ nav a:hover{
   -moz-box-shadow: 0px 0px 40px #FFD10B;
   box-shadow: 0px 0px 40px #FFD10B;
 }
+.shopbutton{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(100px);
+}
+.shopbutton a{
+  font-weight: 700;
+  color: #FF050D7A;
+  padding: 5px;
+  border-radius:10px;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;user-select: none;
+  -webkit-box-shadow: 0px 0px 40px #FF2A2A;
+  -moz-box-shadow: 0px 0px 40px #FF2A2A;
+   box-shadow: 0px 0px 40px  #FF2A2A;
+}
+.shopbutton a:hover{
+  color:#FF1414;
+  border-radius: 10px;
+  background-color: transparent;
+  -webkit-box-shadow: 0px 0px 40px #FFD10B;
+  -moz-box-shadow: 0px 0px 40px #FFD10B;
+  box-shadow: 0px 0px 40px #FFD10B;
+}
