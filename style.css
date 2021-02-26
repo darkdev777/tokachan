@@ -229,7 +229,6 @@ nav a:hover{
   text-align: center;
   align-items: center;
   justify-content: center;
-  backdrop-filter: blur(100px);
 }
 .shopbutton a{
   font-weight: 700;
