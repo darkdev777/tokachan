@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>http://kavishka.me/index.html</loc>
+  <loc>https://kavishka.me/index</loc>
   <priority>1.0</priority>
   <changefreq>daily</changefreq>
   <lastmod>2021-02-09</lastmod>
 </url>
 <url>
-  <loc>http://kavishka.me/about.html</loc>
+  <loc>https://kavishka.me/about</loc>
   <priority>1.0</priority>
   <changefreq>daily</changefreq>
   <lastmod>2021-02-09</lastmod>
 </url>
 <url>
-  <loc>http://kavishka.me/new.html</loc>
-  <priority>1.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2021-02-09</lastmod>
-</url>
-<url>
-  <loc>http://kavishka.me/buy.html</loc>
+  <loc>https://kavishka.me/maths</loc>
   <priority>1.0</priority>
   <changefreq>daily</changefreq>
   <lastmod>2021-02-09</lastmod>
