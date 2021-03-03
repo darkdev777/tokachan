@@ -153,7 +153,7 @@ nav a:hover{
   color: #FFFFFF;
   bottom: 0;
   height: 2.5em;
-  position: relative;
+  position: fixed;
   left: 0;
 }
 .footera{
