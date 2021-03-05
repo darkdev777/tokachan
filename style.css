@@ -261,3 +261,6 @@ nav a:hover{
 .anime a:hover{
   color: #FF0000;
 }
+.blur{
+  backdrop-filter: blur(10px)
+}
