@@ -1,5 +1,4 @@
 **Nothing**
 
-[Contact](mailto: contact@kavishka.me ?subject= Contact;)
-
+```Contact@kavishka.me```
 [Website](https://kavishka.me)
