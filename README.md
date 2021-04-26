@@ -1,9 +1,5 @@
-Old site Kavishka.me😏
+SIMPLE WEBSITE TEMPLATE
 
-**Feel free try to make your own template using this**
 
-```Open source license```
 
-```Contact@kavishka.me```
-
-[Website](https://kavishka.me)
+DEMO: [Website](https://)
